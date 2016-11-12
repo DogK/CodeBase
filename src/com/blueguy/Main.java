@@ -13,4 +13,9 @@ public class Main {
         System.out.print(s);
         System.out.print("dev1.0~！！！");
     }
+
+    private void say1(String s) {
+        System.out.print(s);
+        System.out.print("dev1.0~！！！");
+    }
 }
