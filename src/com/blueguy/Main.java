@@ -11,5 +11,6 @@ public class Main {
 
     private void say(String s) {
         System.out.print(s);
+        System.out.print("dev1.0~！！！");
     }
 }
