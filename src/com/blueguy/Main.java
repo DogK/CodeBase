@@ -8,4 +8,8 @@ public class Main {
         System.out.print("世界和平！！！");
 
     }
+
+    private void say(String s) {
+        System.out.print(s);
+    }
 }
