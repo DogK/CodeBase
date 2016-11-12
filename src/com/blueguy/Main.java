@@ -10,6 +10,6 @@ public class Main {
     }
 
     private void say(String s) {
-        System.out.print(s);
+        System.out.print(s + ", hello");
     }
 }
